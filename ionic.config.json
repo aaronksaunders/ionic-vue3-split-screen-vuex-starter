@@ -1,0 +1,7 @@
+{
+  "name": "vue-sidemenu-vuex",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
